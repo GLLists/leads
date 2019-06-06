@@ -855,7 +855,7 @@ body {
   overflow: hidden !important;
   padding-top: 30px;
   padding-bottom: 105px;
-  background-image: url("../../../assets/images/nature-sky-sunset-man-2-1920x1280.jpg");
+  background-image: url("../../../assets/images/nature-sky-sunset-man-2-1920x12802.jpg");
 }
 .cid-rsxN2oN7Cq .animated-element {
   color: #efefef;
@@ -1103,7 +1103,7 @@ body {
 .cid-rsz4ZlIPN6 {
   padding-top: 45px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/mbr-1920x12803.jpg");
 }
 .cid-rsz4ZlIPN6 .mbr-section-subtitle {
   color: #767676;
@@ -1351,6 +1351,21 @@ body {
 .cid-rsDnjQFt4Y .mbr-title {
   text-align: center;
 }
+.cid-rsDtyeyYTW {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rsDtyeyYTW .mbr-text {
+  color: #232323;
+  text-align: center;
+}
+.cid-rsDtyeyYTW .mbr-subtitle {
+  color: #767676;
+}
+.cid-rsDtyeyYTW .mbr-title {
+  text-align: center;
+}
 .cid-rsDp4PIzPA {
   padding-top: 0px;
   padding-bottom: 15px;
@@ -1502,6 +1517,21 @@ body {
 }
 .cid-rsDqlnUNei .mbr-section-title {
   color: #000000;
+}
+.cid-rsDsYiEH1q {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rsDsYiEH1q .mbr-text {
+  color: #232323;
+  text-align: center;
+}
+.cid-rsDsYiEH1q .mbr-subtitle {
+  color: #767676;
+}
+.cid-rsDsYiEH1q .mbr-title {
+  text-align: center;
 }
 .cid-rsxQspYsMW.popup-builder {
   background-color: #ffffff;
@@ -1797,4 +1827,19 @@ body {
   .cid-rsz37x3oVV .mbr-section-title {
     text-align: center !important;
   }
+}
+.cid-rsDsXRmSPu {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rsDsXRmSPu .mbr-text {
+  color: #232323;
+  text-align: center;
+}
+.cid-rsDsXRmSPu .mbr-subtitle {
+  color: #767676;
+}
+.cid-rsDsXRmSPu .mbr-title {
+  text-align: center;
 }
