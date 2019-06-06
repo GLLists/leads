@@ -855,7 +855,7 @@ body {
   overflow: hidden !important;
   padding-top: 30px;
   padding-bottom: 105px;
-  background-image: url("../../../assets/images/nature-sky-sunset-man-2-1920x12802.jpg");
+  background-image: url("../../../assets/images/nature-sky-sunset-man-2-1920x1280.jpg");
 }
 .cid-rsxN2oN7Cq .animated-element {
   color: #efefef;
@@ -1103,7 +1103,7 @@ body {
 .cid-rsz4ZlIPN6 {
   padding-top: 45px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/mbr-1920x12803.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-rsz4ZlIPN6 .mbr-section-subtitle {
   color: #767676;
@@ -1158,10 +1158,6 @@ body {
 .cid-rszrh4iQvW .mbr-card-text,
 .cid-rszrh4iQvW .mbr-section-btn {
   color: #232323;
-}
-.cid-rszD9ZZMcI {
-  padding-top: 120px;
-  padding-bottom: 120px;
 }
 .cid-rszD9ZZMcI .mbr-section-subtitle {
   color: #ffffff;
@@ -1533,6 +1529,36 @@ body {
 .cid-rsDsYiEH1q .mbr-title {
   text-align: center;
 }
+.cid-rsDsXRmSPu {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rsDsXRmSPu .mbr-text {
+  color: #232323;
+  text-align: center;
+}
+.cid-rsDsXRmSPu .mbr-subtitle {
+  color: #767676;
+}
+.cid-rsDsXRmSPu .mbr-title {
+  text-align: center;
+}
+.cid-rsz37x3oVV {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #66458e;
+}
+.cid-rsz37x3oVV .mbr-section-subtitle {
+  color: #cccccc;
+}
+@media (max-width: 767px) {
+  .cid-rsz37x3oVV .mbr-section-btn,
+  .cid-rsz37x3oVV .mbr-section-subtitle,
+  .cid-rsz37x3oVV .mbr-section-title {
+    text-align: center !important;
+  }
+}
 .cid-rsxQspYsMW.popup-builder {
   background-color: #ffffff;
 }
@@ -1812,34 +1838,4 @@ body {
   flex: 0 0 auto;
   width: auto;
   max-width: 100%;
-}
-.cid-rsz37x3oVV {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #66458e;
-}
-.cid-rsz37x3oVV .mbr-section-subtitle {
-  color: #cccccc;
-}
-@media (max-width: 767px) {
-  .cid-rsz37x3oVV .mbr-section-btn,
-  .cid-rsz37x3oVV .mbr-section-subtitle,
-  .cid-rsz37x3oVV .mbr-section-title {
-    text-align: center !important;
-  }
-}
-.cid-rsDsXRmSPu {
-  padding-top: 0px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
-}
-.cid-rsDsXRmSPu .mbr-text {
-  color: #232323;
-  text-align: center;
-}
-.cid-rsDsXRmSPu .mbr-subtitle {
-  color: #767676;
-}
-.cid-rsDsXRmSPu .mbr-title {
-  text-align: center;
 }
