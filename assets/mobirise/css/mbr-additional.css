@@ -1652,91 +1652,33 @@ body {
     width: 100% !important;
   }
 }
-.cid-rsE0WtcHQn {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background11.jpg");
+.cid-rsEfz3q71o {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #000000;
 }
-.cid-rsE0WtcHQn .plan-body .btn-bgr {
-  z-index: 0;
-}
-.cid-rsE0WtcHQn .media-container-row {
-  -webkit-align-items: flex-start;
-  align-items: flex-start;
-}
-.cid-rsE0WtcHQn .list-group-item {
-  padding: .75rem 0rem;
-}
-.cid-rsE0WtcHQn .plan-subtitle {
-  color: #cccccc;
-}
-.cid-rsE0WtcHQn .mbr-text {
-  margin: 10px 0 0 0;
-  color: #cccccc;
-}
-.cid-rsE0WtcHQn .price-term .term {
-  display: inline-block;
-  background: #ffffff;
-  padding: 5px 10px;
-  border-radius: 100px;
-}
-.cid-rsE0WtcHQn .plan {
-  padding: 1.875rem;
-  background: none;
-  position: relative;
-}
-.cid-rsE0WtcHQn .plan .mbr-overlay {
-  background: #66458e;
-  opacity: 0.9;
-}
-.cid-rsE0WtcHQn .plan .plan-price {
-  margin-top: 15px;
-  padding: 20px 0;
-  border-top: 1px solid #eaeaea;
-}
-.cid-rsE0WtcHQn .plan .plan-price .price-term {
-  margin-top: 10px;
-}
-.cid-rsE0WtcHQn .plan .list-group-item {
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-  border: 0;
-  background: none;
-}
-.cid-rsE0WtcHQn .plan .list-group-item::after {
-  position: absolute;
-  bottom: 0;
-  left: 0%;
-  width: 100%;
-  height: 1px;
-  content: "";
-  background-color: #eaeaea;
-}
-.cid-rsE0WtcHQn .plan .mbr-section-btn a {
-  margin-bottom: 0;
-}
-.cid-rsE0WtcHQn .plan .plan-body {
-  position: relative;
-  border-top: 1px solid #eaeaea;
-}
-@media (max-width: 992px) {
-  .cid-rsE0WtcHQn .plan {
-    margin-bottom: 30px;
+@media (max-width: 768px) {
+  .cid-rsEfz3q71o .mbr-text,
+  .cid-rsEfz3q71o .mbr-section-subtitle,
+  .cid-rsEfz3q71o .mbr-section-title {
+    text-align: center !important;
   }
 }
-.cid-rsE0WtcHQn .plan-header {
-  position: relative;
+.cid-rsEfz3q71o .mbr-text {
+  text-align: center;
+  color: #ffeb51;
 }
-@media (max-width: 550px) {
-  .cid-rsE0WtcHQn .price-figure {
-    font-size: 4.25rem;
-  }
+.cid-rsEfz3q71o .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-rsEfz3q71o .mbr-section-title {
+  text-align: center;
+  color: #ffe100;
 }
 .cid-rsE0WYCBwL {
-  padding-top: 90px;
+  padding-top: 60px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background3.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1220.jpg");
 }
 .cid-rsE0WYCBwL .plan-body .btn-bgr {
   z-index: 0;
@@ -1768,7 +1710,7 @@ body {
 }
 .cid-rsE0WYCBwL .plan .mbr-overlay {
   background: #232323;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 .cid-rsE0WYCBwL .plan .plan-price {
   margin-top: 15px;
