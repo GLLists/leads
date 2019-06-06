@@ -2026,6 +2026,36 @@ body {
 .cid-rsEkXEWA89 .sign {
   color: #232323;
 }
+.cid-rsEqS8bdPd {
+  overflow: hidden !important;
+  padding-top: 120px;
+  padding-bottom: 105px;
+}
+.cid-rsEqS8bdPd .animated-element {
+  color: #efefef;
+}
+.cid-rsEqS8bdPd .img-block {
+  -webkit-align-self: center;
+  align-self: center;
+}
+.cid-rsEqS8bdPd .mbr-section-subtitle {
+  color: #efefef;
+}
+@media (min-width: 992px) {
+  .cid-rsEqS8bdPd .img-block {
+    padding-right: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rsEqS8bdPd .mbr-figure {
+    margin-top: 1rem;
+  }
+}
+@media (max-width: 768px) {
+  .cid-rsEqS8bdPd .img-block {
+    padding-bottom: 2rem;
+  }
+}
 .cid-rsz37x3oVV {
   padding-top: 30px;
   padding-bottom: 30px;
