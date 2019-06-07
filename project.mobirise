@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-06-05_1307",
+    "name": "BestproLeads.com",
     "currentPage": "index.html",
     "theme": {
       "name": "commercem4",
@@ -43,14 +43,16 @@
     "siteFonts": [],
     "uniqCompNum": 91,
     "versionPublish": "4.10.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/28415765-best-of-the-best-icon100-100x100.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "BestproLeads.com",
+        "meta_descr": "BestproLeads.com Ever wonder how top producers in every business opportunity got there? And how they always earn the big bucks anywhere they go? They use Genealogy Leads and Network Marketing Downline Lists!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
