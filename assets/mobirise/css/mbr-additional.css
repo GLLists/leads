@@ -1795,7 +1795,7 @@ body {
 .cid-rsEovVPyBL {
   background: #ffffff;
   padding-top: 0px;
-  padding-bottom: 45px;
+  padding-bottom: 30px;
 }
 .cid-rsEovVPyBL .container-fluid {
   padding: 0 3rem;
@@ -1957,7 +1957,7 @@ body {
 }
 .cid-rsIJE3waek {
   padding-top: 0px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rsIJE3waek .header-text {
@@ -2020,7 +2020,7 @@ body {
 }
 .cid-rsINVzA9ar {
   padding-top: 0px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rsINVzA9ar .header-text {
@@ -2079,6 +2079,69 @@ body {
   margin-bottom: 0;
 }
 .cid-rsINVzA9ar .card .panel-body {
+  background: #efefef;
+}
+.cid-rsIQPiSBZj {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rsIQPiSBZj .header-text {
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.cid-rsIQPiSBZj .accordion-content {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+}
+.cid-rsIQPiSBZj .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rsIQPiSBZj .panel-group {
+  width: 100%;
+}
+.cid-rsIQPiSBZj .panel-text {
+  color: #767676;
+}
+.cid-rsIQPiSBZj .card {
+  border-radius: 0px;
+  margin-bottom: .5rem;
+}
+.cid-rsIQPiSBZj .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-rsIQPiSBZj .card .card-header a.panel-title {
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  transition: all .3s;
+  background-color: #66458e;
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-rsIQPiSBZj .card .card-header a.panel-title:hover {
+  opacity: 0.5;
+}
+.cid-rsIQPiSBZj .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rsIQPiSBZj .card .card-header a.panel-title .sign {
+  padding-right: 1rem;
+}
+.cid-rsIQPiSBZj .card .card-header a.panel-title h4 {
+  padding: 1rem 1rem;
+  margin-bottom: 0;
+}
+.cid-rsIQPiSBZj .card .panel-body {
   background: #efefef;
 }
 .cid-rsEqS8bdPd {
