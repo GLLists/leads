@@ -2224,11 +2224,11 @@ body {
 .cid-rsFDnWw1kV {
   padding-top: 30px;
   padding-bottom: 60px;
-  background-color: #5b686b;
+  background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
 }
 .cid-rsFDnWw1kV .mbr-overlay {
-  background-color: #232323;
-  opacity: 0.7;
+  background-color: #cccccc;
+  opacity: 0.3;
 }
 .cid-rsFDnWw1kV .form-control,
 .cid-rsFDnWw1kV .field-input {
@@ -2331,6 +2331,9 @@ body {
 }
 .cid-rsFDnWw1kV input::-webkit-calendar-picker-indicator {
   display: none;
+}
+.cid-rsFDnWw1kV H3 {
+  color: #ffea4b;
 }
 .cid-rsJ1AnREnR {
   padding-top: 30px;
