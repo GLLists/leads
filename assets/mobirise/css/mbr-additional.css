@@ -2176,6 +2176,17 @@ body {
     padding-bottom: 2rem;
   }
 }
+.cid-rsP13C0wd8 {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+}
+.cid-rsP13C0wd8 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rsP13C0wd8 .mbr-section-title {
+  color: #ffffff;
+}
 .cid-rsJlN4TzYN {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -2579,6 +2590,7 @@ body {
   width: 100%;
   margin: 0;
   text-align: center;
+  color: #66458e;
 }
 .cid-rsJPDfWUBq .modal-body {
   position: relative;
