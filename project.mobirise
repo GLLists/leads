@@ -41,11 +41,16 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
-    "uniqCompNum": 90,
+    "uniqCompNum": 91,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/1-128x117.png",
-    "noImageResize": ""
+    "favicon": "@PROJECT_PATH@/assets/images/target-128x128-1.png",
+    "noImageResize": "",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
